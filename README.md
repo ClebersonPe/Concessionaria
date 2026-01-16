@@ -1,4 +1,4 @@
-# 🚗 Sistema de Concessionária – PHP
+# Sistema de Concessionária – PHP
 
 Este projeto foi desenvolvido em sala de aula como parte do aprendizado em PHP e desenvolvimento web, com foco na criação de um sistema simples de gerenciamento para uma concessionária.
 
