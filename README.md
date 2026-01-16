@@ -1,7 +1,10 @@
-O projeto foi desenvolvido em sala de aula e conta com cruds de login e cadastro, listagem de produtos e usuários, pesquisa por aproximação e alteração de informações.
+# 🚗 Sistema de Concessionária – PHP
 
+Este projeto foi desenvolvido em sala de aula como parte do aprendizado em PHP e desenvolvimento web, com foco na criação de um sistema simples de gerenciamento para uma concessionária.
 
-Apesar de simples, conta com diversas funcionalidades essenciais:
+Apesar de ser um projeto inicial, o sistema conta com funcionalidades essenciais de um CRUD completo, aplicando conceitos importantes de lógica de programação, organização de código e manipulação de dados.
+
+## Apesar de simples, conta com diversas funcionalidades essenciais:
 
 ### Crud de Login
 
@@ -20,6 +23,11 @@ Apesar de simples, conta com diversas funcionalidades essenciais:
 ### Alterar dados do veiculo
 
 <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/abee94ba-87d4-44b1-89e5-7a083fffd032" />
+
+### Pesquisa de Veiculos por aproximação
+
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/25043e67-6efe-412d-be4c-a686aff1edf0" />
+
 
 
 
